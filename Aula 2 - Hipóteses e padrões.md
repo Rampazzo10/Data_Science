@@ -82,17 +82,14 @@ Vamos definir o que cada parâmetro significa:
 
   Como visto anteriormente, representam, respectivamente, os erros dentro e fora da amostra.
 
-<br>
 * <a href="https://www.codecogs.com/eqnedit.php?latex=N" target="_blank"><img src="https://latex.codecogs.com/gif.latex?N" title="N" /></a>
 
   Representa a quantidade de dados que nós dispomos. No caso dos exames, temos 7 dados, portanto, N = 7
 
-<br>
 * <a href="https://www.codecogs.com/eqnedit.php?latex=M" target="_blank"><img src="https://latex.codecogs.com/gif.latex?M" title="M" /></a>
 
   Representa o número de hipóteses do nosso modelo. Por enquanto ainda não sabemos calcular M para ambos os casos anteriores (parábola e reta), pois são infinitos. Mas, por enquanto, basta saber que o primeiro é maior que o segundo. Faremos uma análise puramente qualitativa desta desigualdade.
 
-<br>
 * <a href="https://www.codecogs.com/eqnedit.php?latex=\varepsilon" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\varepsilon" title="\varepsilon" /></a>
 
   É a única variável dentre nossos parâmetros. Se você me der um <a href="https://www.codecogs.com/eqnedit.php?latex=\varepsilon" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\varepsilon" title="\varepsilon" /></a>, eu te dou uma probabilidade associada.
